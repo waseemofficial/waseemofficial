@@ -26,6 +26,7 @@ jobs:
 
           # Options
           user: waseemofficial
+
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
