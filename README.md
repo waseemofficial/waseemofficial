@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "200" height="100" style="border-radius: 15px 50px 30px;">
+<img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "200" height="100" style="border-radius: 30px 50px 60px;">
 
 
 <p >
