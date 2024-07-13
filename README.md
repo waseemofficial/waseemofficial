@@ -1,7 +1,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waseemofficial)  
 
-<img src="https://github.com/waseemofficial/waseemofficial/images/github_pic1" width = "400" height="100">
+<img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "400" height="100">
 <p>
             <strong>
                Myself , Syed Waseem, passion for Blockchain development with a diverse skillset ranging from the MEARN stack to a stronghold on data analytics and software testing.<br><br>
@@ -70,9 +70,6 @@
 </p>
 
 ## Trophy's
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=waseemofficial&theme=dark"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=waseemofficial&title=Stars,Followers,Commits,Repositories,Experience,MultipleLang,Issues,PullRequest&theme=onedark)
  
