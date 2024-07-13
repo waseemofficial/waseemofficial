@@ -1,16 +1,22 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waseemofficial)  
 
-<img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "400" height="100">
-<p>
+
+
+<img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "200" height="100">
+<div>
+<p >
+
             <strong>
                Myself , Syed Waseem, passion for Blockchain development with a diverse skillset ranging from the MEARN stack to a stronghold on data analytics and software testing.<br><br>
               Skilled in React , Node JS , Blockchain ,Shell Scripting ,Spring Framework , Python , JavaScript , Java ,Solidity and Golang and enhancing my skills in the field of Full Stack Development as well as Machine Learning. Looking forward to learn more skills in tech industry.<br><br>
                 Always passionate for new things to explore upon, looking for new opportunities to grow.
-  ****          </strong>
-        </p>
+            </strong>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px height=40px> </h2>
+        </p>
+</div>
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px height=15px> </h2>
 
   
 ### 🛠 Languages
@@ -30,7 +36,7 @@
 
 
 
-### 🛠  Tech Stack
+### 🌐  Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +56,7 @@
  
 &emsp;
 
-### OS
+### 🖥️ OS
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -58,7 +64,7 @@
   </a>
 </p>
 
-### Other
+### 🧊 Other
 <p align="center">
 <div >
 <a href="https://skillicons.dev">
@@ -69,12 +75,12 @@
 </div>
 </p>
 
-## Trophy's
+## &#127942; Trophy's
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=waseemofficial&title=Stars,Followers,Commits,Repositories,Experience,MultipleLang,Issues,PullRequest&theme=onedark)
  
 
-## Stats
+## 🧮 Stats
 </p>
   <div style="display: flex; flex-direction: row;">
   <img src="https://github.r2v.ch/codewars?user=waseem_sy&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="300" height="150" style="margin: 10px; padding: 20px;"/>
