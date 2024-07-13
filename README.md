@@ -1,6 +1,7 @@
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waseemofficial)  
 
-
+<img src="https://github.com/waseemofficial/waseemofficial/images/github_pic1" width = "400" height="100">
 <p>
             <strong>
                Myself , Syed Waseem, passion for Blockchain development with a diverse skillset ranging from the MEARN stack to a stronghold on data analytics and software testing.<br><br>
@@ -14,98 +15,69 @@
   
 ### 🛠 Languages
 
-<p align="left"> 
-  
-
-  
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,java,golang,bash,latex,md,regex" />
   </a>
-  &emsp;
-<a href="https://www.javascript.com/en/">
-    <img alt="JS" src="https://img.shields.io/badge/JS-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"/>
-  </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-   &emsp;
-<a href="https://www.cprogramming.com/">
-    <img alt="Golang" src="https://img.shields.io/badge/Golang-3498DB?style=for-the-badge&logo=Golang&logoColor=white"/>
-  </a>
- &emsp;
-<a href="https://www.html.com/en/">
-    <img alt="HTML" src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=html&logoColor=white"/>
-  </a>
-   &emsp;
-<a href="https://www.css.com/en/">
-    <img alt="Css" src="https://img.shields.io/badge/Css-4481EB?style=for-the-badge&logo=css&logoColor=white"/>
-  </a>
-
-
-  
-
-
 </p>
 
+
+
+
+<br />
+<br />
+
+
+
+
 ### 🛠  Tech Stack
-<p align="left"> 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,nodejs,django,mongodb,mysql,selenium,cypress,anaconda,figma,obsidian,githubactions,htmx,materialui,jest,vim,cmake&perline=9" />
+ <br />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+
+
+  </a>
+</p>
+
+ 
 &emsp;
-  <a href="https://react.dev/" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React-040720?style=for-the-badge&logo=react&logoColor=00AEEF">
-   </a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node JS" src="https://img.shields.io/badge/node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://mongodb.io/" target="_blank"> 
-    <img alt="Mongo DB" src="https://img.shields.io/badge/MONGODB-4DB33D?style=for-the-badge&logo=MONGODB&logoColor=white"/>
+
+### OS
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali&perline=8" />
   </a>
-   &emsp;
-  <a href="https://mysql.com/" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=SQL&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://django.com/" target="_blank"> 
-    <img alt="DJANGO" src="https://img.shields.io/badge/DJANGO-092e20?style=for-the-badge&logo=SQL&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://springmvc.com/" target="_blank"> 
-    <img alt="SPRING MVC" src="https://img.shields.io/badge/SpringMVC-c6d7b9?style=for-the-badge&logo=SpringMVC&logoColor=white"/>
-  </a>
-  &emsp;
-     &emsp;
-  <a href="https://jquery.com/" target="_blank"> 
-    <img alt="JQUERY" src="https://img.shields.io/badge/JQUERY-0769ad?style=for-the-badge&logo=JQUERY&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://git.com/" target="_blank"> 
-    <img alt="git" src="https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://github.com/" target="_blank"> 
-    <img alt="github" src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://matrialUI.com/" target="_blank"> 
-    <img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-3f51b5?style=for-the-badge&logo=MaterialUI&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://figma.com/" target="_blank"> 
-    <img alt="figma" src="https://img.shields.io/badge/Figma-e04a34?style=for-the-badge&logo=Figma&logoColor=white"/>
-  </a>
-	&emsp;
-  <a href="https://docker.com/" target="_blank"> 
-    <img alt="docker" src="https://img.shields.io/badge/Docker-4481eb?style=for-the-badge&logo=Docker&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://vscode.com/" target="_blank"> 
-    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCode&logoColor=white"/>
-  </a>
-   
-	
+</p>
+
+### Other
+<p align="center">
+<div >
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,astro,autocad,blender&perline=8" />
+<a >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+</a>
+</div>
+</p>
+
+## Trophy's
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=waseemofficial&theme=dark"/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=waseemofficial&title=Stars,Followers,Commits,Repositories,Experience,MultipleLang,Issues,PullRequest&theme=onedark)
+ 
+
+## Stats
 </p>
   <div style="display: flex; flex-direction: row;">
   <img src="https://github.r2v.ch/codewars?user=waseem_sy&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="300" height="150" style="margin: 10px; padding: 20px;"/>
@@ -133,8 +105,12 @@
 	<a href="wasem.sye@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/waseemofficial&theme=dark"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	
-	
+<div id="header" align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=waseemofficial&style=for-the-badge&color=orange" alt=""/>
+</div>	
 </p>
+
     
   <p align="center">
 	<h5 align="center">Thanks for visiting</h5>
