@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "200" height="100">
+<img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "200" height="100" style="border-radius: 15px 50px 30px;">
 
 
 <p >
@@ -14,7 +14,7 @@
                 Always passionate for new things to explore upon, looking for new opportunities to grow.
             </strong>
 
-        </p>
+</p>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px height=15px> </h2>
