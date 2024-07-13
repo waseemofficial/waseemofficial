@@ -4,17 +4,18 @@
 
 
 <img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "200" height="100">
-<div>
+
+
 <p >
 
-            <strong>
+<strong>
                Myself , Syed Waseem, passion for Blockchain development with a diverse skillset ranging from the MEARN stack to a stronghold on data analytics and software testing.<br><br>
               Skilled in React , Node JS , Blockchain ,Shell Scripting ,Spring Framework , Python , JavaScript , Java ,Solidity and Golang and enhancing my skills in the field of Full Stack Development as well as Machine Learning. Looking forward to learn more skills in tech industry.<br><br>
                 Always passionate for new things to explore upon, looking for new opportunities to grow.
             </strong>
 
         </p>
-</div>
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px height=15px> </h2>
 
