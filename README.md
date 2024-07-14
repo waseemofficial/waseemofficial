@@ -1,7 +1,7 @@
 <div align="center">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waseemofficial)
-  
+
 [![Github](https://img.shields.io/github/followers/waseemofficial?label=Follow%20Me&style=social)](https://github.com/waseemofficial)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sy_waseem-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
 [![Codewars](https://img.shields.io/badge/Codewars-Waseem%20-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/waseem_sy)
@@ -77,15 +77,16 @@
 </p>
 
 ### 🧊 Other
-<p align="center">
-<div >
+
+
+<div align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,astro,autocad,blender&perline=8" />
 <a >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+
 </a>
 </div>
-</p>
 
 ## &#127942; Trophy's
 
