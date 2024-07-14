@@ -1,7 +1,17 @@
+<div align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waseemofficial)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waseemofficial)
+  
+[![Github](https://img.shields.io/github/followers/waseemofficial?label=Follow%20Me&style=social)](https://github.com/waseemofficial)
+[![HackerRank](https://img.shields.io/badge/HackerRank-sy_waseem-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
+[![Codewars](https://img.shields.io/badge/Codewars-Waseem%20-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/waseem_sy)
 
+</div>
 
+<!-- [![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com) -->
+<br>
+
+<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 
 <img src="https://github.com/waseemofficial/waseemofficial/blob/main/images/github_pic1.jpeg" width = "200" height="100" style="border-radius: 50px 80px 60px;visibility: hidden;">
