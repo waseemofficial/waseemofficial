@@ -19,8 +19,9 @@
 
 <p >
 
-<strong>
 # Welcome to My GitHub Profile! 👋
+
+<strong>
 
 Hello there! I'm Waseem, a passionate developer who loves building innovative and impactful projects. This is my GitHub profile, where I share my work, collaborate with others, and contribute to the open-source community. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect or collaborate!
                
@@ -38,7 +39,7 @@ Hello there! I'm Waseem, a passionate developer who loves building innovative an
 
 🛠️ Passionate about solving real-world problems through code.
 
-📫 How to reach me: [Email](wasem.sye@gmail.com) | LinkedIn | Twitter
+📫 How to reach me: [Email](mailto:wasem.sye@gmail.com?subject=Hello%20Waseem&body=Hi%20Waseem,%20I%20found%20your%20GitHub%20profile!) | LinkedIn | Twitter
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px height=15px> </h2>
