@@ -1,6 +1,9 @@
 <div align="center">
+<div >
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waseemofficial)
+	[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waseemofficial)
+
+</div>
 
 [![Github](https://img.shields.io/github/followers/waseemofficial?label=Follow%20Me&style=social)](https://github.com/waseemofficial)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sy_waseem-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
