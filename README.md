@@ -1,7 +1,6 @@
 <div align="center">
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'width='40' height='40'>](https://github.com/waseemofficial)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='20' height='20'>](https://github.com/waseemofficial)
 
 
 [![Github](https://img.shields.io/github/followers/waseemofficial?label=Follow%20Me&style=social)](https://github.com/waseemofficial)
